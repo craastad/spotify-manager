@@ -1,4 +1,4 @@
-package com.craastad.spotifymanager.spotifymanager;
+package com.craastad.spotifymanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
